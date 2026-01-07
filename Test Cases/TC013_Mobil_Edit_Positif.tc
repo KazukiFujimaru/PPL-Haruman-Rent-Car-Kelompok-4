@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC013_Mobil_Edit_Positif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb4b1a5d-8ef0-490c-acf8-2c7b355b498f</testCaseGuid>
+</TestCaseEntity>

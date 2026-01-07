@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC017_Mobil_Edit_DuplikatPlat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ff27db5-6a5e-4aac-9a4d-6003a26911c3</testCaseGuid>
+</TestCaseEntity>

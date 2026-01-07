@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cek Semua Link Navbar Berfungsi</description>
+   <name>TC002_Nav_Sidebar_CekLink</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49bd5930-aaf1-415b-bda8-468afa877b02</testCaseGuid>
+</TestCaseEntity>

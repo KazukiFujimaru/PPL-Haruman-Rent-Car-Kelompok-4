@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tabel_mobil_semua</name>
+   <tag></tag>
+   <elementGuidId>70d0ff99-98e0-40aa-8a16-8662db4c20f8</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;table-respondsive&quot;]/table[@class=&quot;table table-bordered table-hover table-striped&quot;]/tbody[1]/tr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[contains(@class,'table-striped')]/tbody/tr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;table-respondsive&quot;]/table[@class=&quot;table table-bordered table-hover table-striped&quot;]/tbody[1]/tr</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>3d91a4dd-a85a-4de6-9ec3-0763cd0bcd6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Plat Nomor</value>
+      <webElementGuid>366fc305-d257-4946-8a77-d0b7278b99b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;table-respondsive&quot;]/table[@class=&quot;table table-bordered table-hover table-striped&quot;]/tbody[1]/tr</value>
+      <webElementGuid>53d67056-f537-4ef7-b98b-9edd2e8ca308</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[3]/div/div/table/tbody/tr/th</value>
+      <webElementGuid>8c3759f4-c13a-4846-8793-87f6caf109a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari!'])[1]/following::th[1]</value>
+      <webElementGuid>ec08b379-1665-4629-8fc9-d4c4bfbe687b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menampilkan Daftar Mobil'])[1]/following::th[1]</value>
+      <webElementGuid>b4afc459-3772-49e7-a556-582edb79de39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merk Mobil'])[1]/preceding::th[1]</value>
+      <webElementGuid>dd9e816d-e40c-4afd-bb7b-5a2fb09a6c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type Mobil'])[1]/preceding::th[2]</value>
+      <webElementGuid>3e39402d-3d39-43ca-8cd3-206a2fa96b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Plat Nomor']/parent::*</value>
+      <webElementGuid>99cabe95-5357-4afe-bf17-d5b132cd656d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th</value>
+      <webElementGuid>8ad22a76-46d6-4a9d-a497-92e2e1c2a461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Plat Nomor' or . = 'Plat Nomor')]</value>
+      <webElementGuid>646ca612-29c3-4b9f-9d77-a6707c5cab09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

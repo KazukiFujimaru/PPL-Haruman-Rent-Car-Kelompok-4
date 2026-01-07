@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC018_Mobil_Edit_DuplikatData</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8b372d8-a200-4a80-b050-8f4b7632a002</testCaseGuid>
+</TestCaseEntity>

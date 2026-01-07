@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_Mobil_Navigasi_CekTombol</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>615bf664-6425-49b4-ab1a-a9a68eda0acd</testCaseGuid>
+</TestCaseEntity>
