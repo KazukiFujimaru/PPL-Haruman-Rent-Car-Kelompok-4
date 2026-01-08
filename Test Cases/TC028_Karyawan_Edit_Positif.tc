@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC028_Karyawan_Edit_Positif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e2aa13f-8c83-47e4-88ed-8663b627b60e</testCaseGuid>
+</TestCaseEntity>

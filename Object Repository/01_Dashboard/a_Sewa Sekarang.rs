@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sewa Sekarang</name>
+   <tag></tag>
+   <elementGuidId>30071dc5-c38e-4bfd-b8e2-d39bd6235a0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(3) > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[3]/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Sewa Sekarang !&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a2b17ce4-5b4f-4dfd-9d1f-60c79e6217d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>?page=daftar_pelanggan</value>
+      <webElementGuid>a24244b7-6bc9-494c-a44f-04106e25e5b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sewa Sekarang ! </value>
+      <webElementGuid>21cf9ac1-a87a-45ed-a021-5490824e8009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[3]/li[1]/a[1]</value>
+      <webElementGuid>4d734531-e48a-4670-ab0f-0d7f2bf9351e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[3]/li/a</value>
+      <webElementGuid>c9dc51fa-c6a3-4d94-b7f5-395756c12456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sewa Sekarang !')]</value>
+      <webElementGuid>94edcd4b-9e9b-444a-8a47-f284cee8fbb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ayo Kepoin, Dan Sewa Sekarang!!'])[1]/following::a[1]</value>
+      <webElementGuid>8c235018-8de7-4729-b855-3a6af9b58783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selamat Datang Di Halaman Utama Haruman Rent Car'])[1]/following::a[1]</value>
+      <webElementGuid>d6a1bc61-7782-4f7c-accd-bb370aafef0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sewa Sekarang !']/parent::*</value>
+      <webElementGuid>5ce27f0b-db48-41bf-80d0-3fd864f6839c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '?page=daftar_pelanggan')])[2]</value>
+      <webElementGuid>4f9f73e3-216b-44b4-a4b9-eeaff79545d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/li/a</value>
+      <webElementGuid>97dd5f26-f61b-491f-9dd6-1eac7cea4049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '?page=daftar_pelanggan' and (text() = ' Sewa Sekarang ! ' or . = ' Sewa Sekarang ! ')]</value>
+      <webElementGuid>c8ddd2dc-7270-4a39-902e-3ffb2cac0624</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

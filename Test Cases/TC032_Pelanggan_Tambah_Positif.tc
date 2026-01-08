@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC032_Pelanggan_Tambah_Positif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b70b52c-d409-4f39-a1a7-57c68fbdda33</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005_Mobil_Navigasi_FiturCari</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c9c1851-7cea-4ad2-9009-aa0dfb681b74</testCaseGuid>
+</TestCaseEntity>

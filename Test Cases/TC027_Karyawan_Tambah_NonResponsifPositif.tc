@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC027_Karyawan_Tambah_NonResponsifPositif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>26c133a2-cd8b-4a8a-9349-b58d2661fb7d</testCaseGuid>
+</TestCaseEntity>

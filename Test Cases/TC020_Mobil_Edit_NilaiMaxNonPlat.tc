@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC020_Mobil_Edit_NilaiMaxNonPlat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2630fedf-64d8-4232-9b67-e31d0cec7930</testCaseGuid>
+</TestCaseEntity>

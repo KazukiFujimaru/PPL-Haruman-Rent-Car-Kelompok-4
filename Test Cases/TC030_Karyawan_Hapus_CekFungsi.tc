@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC030_Karyawan_Hapus_CekFungsi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>82639809-4794-4542-81d4-548830833348</testCaseGuid>
+</TestCaseEntity>

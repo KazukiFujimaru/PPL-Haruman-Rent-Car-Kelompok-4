@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009_Mobil_Tambah_DuplikatPlat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3ebad1e9-7ab5-468d-b46d-f49bd6a431f2</testCaseGuid>
+</TestCaseEntity>

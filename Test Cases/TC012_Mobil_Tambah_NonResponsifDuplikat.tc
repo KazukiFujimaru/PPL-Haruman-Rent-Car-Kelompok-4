@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC012_Mobil_Tambah_NonResponsifDuplikat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ee9b153-6835-430c-b2ea-2faf4d6ebc8b</testCaseGuid>
+</TestCaseEntity>

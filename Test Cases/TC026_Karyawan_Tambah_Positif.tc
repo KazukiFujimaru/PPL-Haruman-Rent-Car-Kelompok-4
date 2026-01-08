@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC026_Karyawan_Tambah_Positif</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e37ecf2d-bc50-4fa7-9bce-d708dd246ea9</testCaseGuid>
+</TestCaseEntity>

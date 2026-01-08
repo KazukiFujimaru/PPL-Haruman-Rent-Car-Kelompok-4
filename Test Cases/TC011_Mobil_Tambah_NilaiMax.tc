@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC011_Mobil_Tambah_NilaiMax</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7905f7a-5935-4957-8875-5b414fe1c0b3</testCaseGuid>
+</TestCaseEntity>

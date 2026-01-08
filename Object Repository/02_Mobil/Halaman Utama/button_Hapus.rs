@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=row[name=&quot;D 1823 AF Honda Jazz 2018 4 5 500000  Edit  Hapus&quot;i] >> internal:role=button >> nth=1</value>
+         <value>internal:role=row[name=&quot;Z 1111 DD edituang testedit 111 111 111 55000000  Edit  Hapus&quot;i] >> internal:role=button >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a8d3d35f-b8cf-4434-8804-df1d5d24f3e7</webElementGuid>
+      <webElementGuid>37721ded-69c6-4990-a73e-85a7b92ac6c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-danger btn-xs</value>
-      <webElementGuid>8283b521-6d93-472e-8223-17c77b089c8d</webElementGuid>
+      <webElementGuid>9ac31bb3-0710-4f78-bf9d-5fd40385ebdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Hapus</value>
-      <webElementGuid>428ac8f5-d5ae-4d1a-bf59-89fdaa9bca0e</webElementGuid>
+      <webElementGuid>9e68cd89-cd98-4480-81ae-ae588c56f31c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;table-respondsive&quot;]/table[@class=&quot;table table-bordered table-hover table-striped&quot;]/tbody[1]/tr[2]/td[8]/a[2]/button[@class=&quot;btn btn-danger btn-xs&quot;]</value>
-      <webElementGuid>9a2efe8f-de8b-4945-a552-4b4051fd9553</webElementGuid>
+      <webElementGuid>18726bed-26e1-45bb-b997-72086c49f877</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='page-wrapper']/div[3]/div/div/table/tbody/tr[2]/td[8]/a[2]/button</value>
-      <webElementGuid>345d20e8-e056-42af-ba4c-5ecac45c1d5e</webElementGuid>
+      <webElementGuid>6ee50692-c0b7-4cbc-aef2-091d8c8bdc7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,31 +69,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::button[1]</value>
-      <webElementGuid>7c949a1d-05f8-4cfc-a041-5f5652237d66</webElementGuid>
+      <webElementGuid>36489749-2024-4f46-8623-280868205fb7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jazz'])[1]/following::button[2]</value>
-      <webElementGuid>a6639ce0-b4b6-4535-b2d7-515b984beaf6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testedit'])[1]/following::button[2]</value>
+      <webElementGuid>6945b150-1ce8-49bf-8b54-fa6b5a67b5a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z 1111 DD'])[1]/preceding::button[1]</value>
-      <webElementGuid>4ae427be-0146-4aad-ad24-61b87b2b4e4f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z 1234 DAV'])[1]/preceding::button[1]</value>
+      <webElementGuid>1e6ea572-8287-4d69-be4e-c7f0854ff14f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daihatsu'])[1]/preceding::button[1]</value>
-      <webElementGuid>459ee6af-7a77-4123-bbe5-e410a3a31251</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitsubishi'])[1]/preceding::button[1]</value>
+      <webElementGuid>bb331ee1-c6af-4d40-93cb-3c7ae0ed06c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Hapus']/parent::*</value>
-      <webElementGuid>e1ca62cb-8589-4d33-ba5d-b33ad7808dfb</webElementGuid>
+      <webElementGuid>285732cc-be23-4a04-b011-134b613de072</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]/button</value>
-      <webElementGuid>5503d73d-1133-4102-8eec-0a071ca42008</webElementGuid>
+      <webElementGuid>605bcba6-77d2-4f95-8962-02889b103b41</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = ' Hapus' or . = ' Hapus')]</value>
-      <webElementGuid>bc234b89-feb3-4aab-9e1c-4b11edb6aa23</webElementGuid>
+      <webElementGuid>667cf9fe-f9bd-48d8-ac9a-908cd2d5c28a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

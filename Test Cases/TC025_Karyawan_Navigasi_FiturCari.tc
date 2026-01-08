@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC025_Karyawan_Navigasi_FiturCari</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ac6d48d8-94e0-4223-afd9-6cbe78e4166a</testCaseGuid>
+</TestCaseEntity>

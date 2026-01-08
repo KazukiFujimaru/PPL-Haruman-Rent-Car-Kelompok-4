@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC008_Mobil_Tambah_Kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>163989fd-dd38-40cf-a0cd-f6929d3b8637</testCaseGuid>
+</TestCaseEntity>

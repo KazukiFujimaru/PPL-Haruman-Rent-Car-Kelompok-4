@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC022_Mobil_Hapus_CekFungsi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>21a467d5-7b3b-44f0-ad09-97b12cd36f7b</testCaseGuid>
+</TestCaseEntity>

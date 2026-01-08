@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_Dashboard_Navigasi_CekLink</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03506dac-3ca5-4555-ab27-8c17e6d96920</testCaseGuid>
+</TestCaseEntity>

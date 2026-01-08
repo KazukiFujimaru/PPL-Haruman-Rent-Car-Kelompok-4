@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC033_Kwitansi_Print_CekFungsi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ddb03e29-e345-46fe-b433-90a62921c913</testCaseGuid>
+</TestCaseEntity>

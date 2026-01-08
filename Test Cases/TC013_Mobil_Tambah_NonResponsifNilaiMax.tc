@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC013_Mobil_Tambah_NonResponsifNilaiMax</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5b112d15-1af8-4be0-a83b-525733d373ca</testCaseGuid>
+</TestCaseEntity>

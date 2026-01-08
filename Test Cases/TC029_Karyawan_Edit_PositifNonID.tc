@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC029_Karyawan_Edit_PositifNonID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae97ee5c-4b08-47cc-99bd-5c1e9a5f80a3</testCaseGuid>
+</TestCaseEntity>

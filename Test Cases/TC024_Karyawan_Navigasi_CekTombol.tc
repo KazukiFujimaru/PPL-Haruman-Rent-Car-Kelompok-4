@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC024_Karyawan_Navigasi_CekTombol</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c25eaecf-54b3-41e5-b39e-fa44f6ac0a27</testCaseGuid>
+</TestCaseEntity>

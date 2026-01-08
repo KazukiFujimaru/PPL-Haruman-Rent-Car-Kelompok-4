@@ -22,32 +22,32 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('http://localhost/haruman_rentcar/')
 
 String landingUrl = WebUI.getUrl()
-WebUI.click(findTestObject('Object Repository/01_Index/Sidebar/a_Halaman Utama'))
+WebUI.click(findTestObject('Object Repository/00_Index/Sidebar/a_Halaman Utama'))
 WebUI.verifyNotMatch(landingUrl, WebUI.getUrl(), false, FailureHandling.CONTINUE_ON_FAILURE)
 String dashboardUrl = WebUI.getUrl()
 
-WebUI.click(findTestObject('Object Repository/01_Index/Sidebar/a_Menu Rental'))
-WebUI.click(findTestObject('Object Repository/01_Index/Sidebar/a_Daftar Mobil'))
+WebUI.click(findTestObject('Object Repository/00_Index/Sidebar/a_Menu Rental'))
+WebUI.click(findTestObject('Object Repository/00_Index/Sidebar/a_Daftar Mobil'))
 WebUI.verifyNotMatch(dashboardUrl, WebUI.getUrl(), false, FailureHandling.CONTINUE_ON_FAILURE)
 String mobilUrl = WebUI.getUrl()
 
-WebUI.click(findTestObject('Object Repository/01_Index/Sidebar/a_Menu Rental'))
-WebUI.click(findTestObject('Object Repository/01_Index/Sidebar/a_Daftar Karyawan'))
+WebUI.click(findTestObject('Object Repository/00_Index/Sidebar/a_Menu Rental'))
+WebUI.click(findTestObject('Object Repository/00_Index/Sidebar/a_Daftar Karyawan'))
 WebUI.verifyNotMatch(mobilUrl, WebUI.getUrl(), false, FailureHandling.CONTINUE_ON_FAILURE)
 String karyawanUrl = WebUI.getUrl()
 
-WebUI.click(findTestObject('Object Repository/01_Index/Sidebar/a_Menu Rental'))
-WebUI.click(findTestObject('Object Repository/01_Index/Sidebar/a_Daftar Pelanggan'))
+WebUI.click(findTestObject('Object Repository/00_Index/Sidebar/a_Menu Rental'))
+WebUI.click(findTestObject('Object Repository/00_Index/Sidebar/a_Daftar Pelanggan'))
 WebUI.verifyNotMatch(karyawanUrl, WebUI.getUrl(), false, FailureHandling.CONTINUE_ON_FAILURE)
 String pelangganUrl = WebUI.getUrl()
 
-WebUI.click(findTestObject('Object Repository/01_Index/Sidebar/a_Menu Rental'))
-WebUI.click(findTestObject('Object Repository/01_Index/Sidebar/a_Kwitansi Rental'))
+WebUI.click(findTestObject('Object Repository/00_Index/Sidebar/a_Menu Rental'))
+WebUI.click(findTestObject('Object Repository/00_Index/Sidebar/a_Kwitansi Rental'))
 WebUI.verifyNotMatch(pelangganUrl, WebUI.getUrl(), false, FailureHandling.CONTINUE_ON_FAILURE)
 String kwitansiUrl = WebUI.getUrl()
 
-WebUI.click(findTestObject('Object Repository/01_Index/Sidebar/a_Menu Rental'))
-WebUI.click(findTestObject('Object Repository/01_Index/Sidebar/a_Cetak Kwitansi Rental'))
+WebUI.click(findTestObject('Object Repository/00_Index/Sidebar/a_Menu Rental'))
+WebUI.click(findTestObject('Object Repository/00_Index/Sidebar/a_Cetak Kwitansi Rental'))
 WebUI.verifyNotMatch(karyawanUrl, WebUI.getUrl(), false, FailureHandling.CONTINUE_ON_FAILURE)
 
 

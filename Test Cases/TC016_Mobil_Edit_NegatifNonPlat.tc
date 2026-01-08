@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC016_Mobil_Edit_NegatifNonPlat</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46018f74-8ddf-4f53-a12f-df94a81f1bfd</testCaseGuid>
+</TestCaseEntity>

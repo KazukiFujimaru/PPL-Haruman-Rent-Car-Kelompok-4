@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC031_Pelanggan_Navigasi_CekTombol</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f33dde0e-4a05-4d45-b061-3d323c43e629</testCaseGuid>
+</TestCaseEntity>
